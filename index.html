@@ -14,31 +14,31 @@
 
 <body class="bg-purple-200">
 	<div x-data="{ open: false }"
-		class="sm:hidden h-16 min-w-full fixed bottom-0 flex justify-between rounded-t-xl shadow-lg bg-white z-10">
+		class="sm:hidden h-16 min-w-full fixed bottom-0 px-5 flex justify-between rounded-t-xl shadow-lg bg-white z-10">
 		<!-- Trigger -->
-		<span x-on:click="open = true">
-			<button type="button" class="">
-				Open slideover
+		<span x-on:click="open = true" class="w-full flex align-middle">
+			<button type="button" class="w-full">
+				1
 			</button>
 		</span>
-		<span x-on:click="open = true">
-			<button type="button" class="">
-				Open slideover
+		<span x-on:click="open = true" class="w-full flex align-middle">
+			<button type="button" class="w-full">
+				2
 			</button>
 		</span>
-		<span x-on:click="open = true">
-			<button type="button" class="">
-				Open slideover
+		<span x-on:click="open = true" class="w-full flex align-middle">
+			<button type="button" class="w-full">
+				3
 			</button>
 		</span>
-		<span x-on:click="open = true">
-			<button type="button" class="">
-				Open slideover
+		<span x-on:click="open = true" class="w-full flex align-middle">
+			<button type="button" class="w-full">
+				4
 			</button>
 		</span>
-		<span x-on:click="open = true">
-			<button type="button" class="">
-				Open slideover
+		<span x-on:click="open = true" class="w-full flex align-middle">
+			<button type="button" class="w-full">
+				5
 			</button>
 		</span>
 
@@ -48,7 +48,7 @@
 			<div x-dialog:overlay x-transition.opacity class="fixed inset-0 bg-black bg-opacity-50"></div>
 
 			<!-- Panel -->
-			<div class="fixed inset-y-0 right-0 max-w-lg w-full">
+			<div class="fixed bottom-0 right-0 max-w-lg w-full">
 				<div x-dialog:panel x-transition:enter="transition ease-out duration-300"
 					x-transition:enter-start="translate-y-full" x-transition:enter-end="translate-y-0"
 					x-transition:leave="transition ease-in duration-300" x-transition:leave-start="translate-y-0"
@@ -94,6 +94,7 @@
 				</div>
 			</div>
 		</div>
+
 	</div>
 
 </body>
