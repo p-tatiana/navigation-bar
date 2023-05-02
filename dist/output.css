@@ -766,10 +766,6 @@ video {
   transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
 }
 
-.first-letter\:overflow-y-scroll::first-letter {
-  overflow-y: scroll;
-}
-
 .focus\:outline-none:focus {
   outline: 2px solid transparent;
   outline-offset: 2px;
