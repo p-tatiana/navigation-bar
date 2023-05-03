@@ -16,33 +16,32 @@
 
 	<div x-data="{ open: false }" class="flex justify-center">
 		<!-- Trigger -->
-		<div
-			class="flex justify-between bg-white px-5 z-10 sm:hidden h-16 min-w-full fixed bottom-0 rounded-t-xl shadow-lg">
-			<span x-on:click="open = true" class="w-full flex align-middle">
-				<button type="button" class="w-full">
+		<div class="flex items-center justify-between bg-white p-1 z-10 sm:hidden h-16 min-w-full fixed bottom-0 rounded-t-xl shadow-lg">
+			<div x-on:click="open = true" class="w-full flex items-center">
+				<button type="button" class="w-full flex flex-col items-center justify-center">
 					1
 				</button>
-			</span>
-			<span x-on:click="open = true" class="w-full flex align-middle">
-				<button type="button" class="w-full">
+			</div>
+			<div x-on:click="open = true" class="w-full flex items-center">
+				<button type="button" class="w-full inline-flex flex-col items-center justify-center">
 					2
 				</button>
-			</span>
-			<span x-on:click="open = true" class="w-full flex align-middle">
-				<button type="button" class="w-full">
+			</div>
+			<div x-on:click="open = true" class="w-full flex items-center">
+				<button type="button" class="w-full inline-flex flex-col items-center justify-center">
 					3
 				</button>
-			</span>
-			<span x-on:click="open = true" class="w-full flex align-middle">
-				<button type="button" class="w-full">
+			</div>
+			<div x-on:click="open = true" class="w-full flex items-center">
+				<button type="button" class="w-full inline-flex flex-col items-center justify-center">
 					4
 				</button>
-			</span>
-			<span x-on:click="open = true" class="w-full flex align-middle">
-				<button type="button" class="w-full">
+			</div>
+			<div x-on:click="open = true" class="w-full flex items-center">
+				<button type="button" class="w-full inline-flex flex-col items-center justify-center">
 					5
 				</button>
-			</span>
+			</div>
 		</div>
 
 		<!-- Slideover -->
@@ -78,7 +77,8 @@
 							<h2 x-dialog:title class="mb-4 text-3xl font-bold text-center">Slideover Title</h2>
 
 							<!-- Content -->
-							<div class="h-full flex flex-col overflow-y-scroll no-scrollbar no-scrollbar::-webkit-scrollbar">
+							<div
+								class="h-full flex flex-col overflow-y-scroll no-scrollbar no-scrollbar::-webkit-scrollbar">
 								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
 								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
 								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
@@ -95,8 +95,6 @@
 								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
 								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
 								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
-                <p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
-                <p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
 								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
 								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
 								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
@@ -105,14 +103,6 @@
 								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
 								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
 								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
-                <p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
-                <p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
-								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
-								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
-								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
-								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
-                <p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
-                <p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
 								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
 								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
 								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
@@ -121,7 +111,17 @@
 								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
 								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
 								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
-                <p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
+								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
+								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
+								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
+								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
+								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
+								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
+								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
+								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
+								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
+								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
+								<p class="mt-4 text-gray-600 flex-1">Your slideout text and content goes here.</p>
 							</div>
 						</div>
 					</div>
