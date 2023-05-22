@@ -435,23 +435,23 @@ video {
 
   font-weight: 200;
 
-  src: url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-200.eot");
+  src: url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-200.eot");
 
   /* IE9 Compat Modes */
 
-  src: url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-200.eot?#iefix")
+  src: url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-200.eot?#iefix")
 				format("embedded-opentype"),
 			/* IE6-IE8 */
-				url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-200.woff2")
+				url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-200.woff2")
 				format("woff2"),
 			/* Super Modern Browsers */
-				url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-200.woff")
+				url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-200.woff")
 				format("woff"),
 			/* Modern Browsers */
-				url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-200.ttf")
+				url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-200.ttf")
 				format("truetype"),
 			/* Safari, Android, iOS */
-				url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-200.svg#Oswald")
+				url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-200.svg#Oswald")
 				format("svg");
 
   /* Legacy iOS */
@@ -470,23 +470,23 @@ video {
 
   font-weight: 300;
 
-  src: url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-300.eot");
+  src: url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-300.eot");
 
   /* IE9 Compat Modes */
 
-  src: url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-300.eot?#iefix")
+  src: url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-300.eot?#iefix")
 				format("embedded-opentype"),
 			/* IE6-IE8 */
-				url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-300.woff2")
+				url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-300.woff2")
 				format("woff2"),
 			/* Super Modern Browsers */
-				url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-300.woff")
+				url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-300.woff")
 				format("woff"),
 			/* Modern Browsers */
-				url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-300.ttf")
+				url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-300.ttf")
 				format("truetype"),
 			/* Safari, Android, iOS */
-				url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-300.svg#Oswald")
+				url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-300.svg#Oswald")
 				format("svg");
 
   /* Legacy iOS */
@@ -505,23 +505,23 @@ video {
 
   font-weight: 400;
 
-  src: url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-regular.eot");
+  src: url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-regular.eot");
 
   /* IE9 Compat Modes */
 
-  src: url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-regular.eot?#iefix")
+  src: url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-regular.eot?#iefix")
 				format("embedded-opentype"),
 			/* IE6-IE8 */
-				url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-regular.woff2")
+				url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-regular.woff2")
 				format("woff2"),
 			/* Super Modern Browsers */
-				url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-regular.woff")
+				url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-regular.woff")
 				format("woff"),
 			/* Modern Browsers */
-				url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-regular.ttf")
+				url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-regular.ttf")
 				format("truetype"),
 			/* Safari, Android, iOS */
-				url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-regular.svg#Oswald")
+				url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-regular.svg#Oswald")
 				format("svg");
 
   /* Legacy iOS */
@@ -540,23 +540,23 @@ video {
 
   font-weight: 500;
 
-  src: url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-500.eot");
+  src: url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-500.eot");
 
   /* IE9 Compat Modes */
 
-  src: url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-500.eot?#iefix")
+  src: url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-500.eot?#iefix")
 				format("embedded-opentype"),
 			/* IE6-IE8 */
-				url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-500.woff2")
+				url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-500.woff2")
 				format("woff2"),
 			/* Super Modern Browsers */
-				url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-500.woff")
+				url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-500.woff")
 				format("woff"),
 			/* Modern Browsers */
-				url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-500.ttf")
+				url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-500.ttf")
 				format("truetype"),
 			/* Safari, Android, iOS */
-				url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-500.svg#Oswald")
+				url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-500.svg#Oswald")
 				format("svg");
 
   /* Legacy iOS */
@@ -575,23 +575,23 @@ video {
 
   font-weight: 600;
 
-  src: url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-600.eot");
+  src: url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-600.eot");
 
   /* IE9 Compat Modes */
 
-  src: url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-600.eot?#iefix")
+  src: url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-600.eot?#iefix")
 				format("embedded-opentype"),
 			/* IE6-IE8 */
-				url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-600.woff2")
+				url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-600.woff2")
 				format("woff2"),
 			/* Super Modern Browsers */
-				url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-600.woff")
+				url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-600.woff")
 				format("woff"),
 			/* Modern Browsers */
-				url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-600.ttf")
+				url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-600.ttf")
 				format("truetype"),
 			/* Safari, Android, iOS */
-				url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-600.svg#Oswald")
+				url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-600.svg#Oswald")
 				format("svg");
 
   /* Legacy iOS */
@@ -610,23 +610,23 @@ video {
 
   font-weight: 700;
 
-  src: url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-700.eot");
+  src: url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-700.eot");
 
   /* IE9 Compat Modes */
 
-  src: url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-700.eot?#iefix")
+  src: url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-700.eot?#iefix")
 				format("embedded-opentype"),
 			/* IE6-IE8 */
-				url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-700.woff2")
+				url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-700.woff2")
 				format("woff2"),
 			/* Super Modern Browsers */
-				url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-700.woff")
+				url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-700.woff")
 				format("woff"),
 			/* Modern Browsers */
-				url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-700.ttf")
+				url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-700.ttf")
 				format("truetype"),
 			/* Safari, Android, iOS */
-				url("/assets/fonts/oswald/oswald-v49-cyrillic_latin-700.svg#Oswald")
+				url("../assets/fonts/oswald/oswald-v49-cyrillic_latin-700.svg#Oswald")
 				format("svg");
 
   /* Legacy iOS */
@@ -949,11 +949,6 @@ video {
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
 
-.translate-x-3 {
-  --tw-translate-x: 0.75rem;
-  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
-}
-
 .-rotate-45 {
   --tw-rotate: -45deg;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
@@ -1169,10 +1164,6 @@ video {
 
 .opacity-0 {
   opacity: 0;
-}
-
-.opacity-100 {
-  opacity: 1;
 }
 
 .shadow-lg {
